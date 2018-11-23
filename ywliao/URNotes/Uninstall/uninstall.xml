@@ -1,0 +1,334 @@
+<SUF70UninstallData>
+<DataFilePath>D:\Program Files (x86)\ywliao\URNotes\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\URNotes意唯桌面便签1.59</CPRegKey>
+<EXELocation>C:\Windows\URNotes\uninstall.exe</EXELocation>
+<UninstallFiles>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\URNotes.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Language_en.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Language_cn.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Language_tw.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Interop.ADODB.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Interop.JRO.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\help.chm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\URSkin\URNotes_Win7.usk</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\如无法运行，请先安装Framework2.0.url</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\noname.ucs</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\System.Data.SQLite.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\URCalendar.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\URUpdate.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\插件接口.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\如无法运行，请先安装Framework2.0.url</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\Newtonsoft.Json.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\URSkin\意唯心心日历默认皮肤.UFS</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\URSkin\意唯心心日历默认皮肤全透明.UFS</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\URSkin\意唯心心日历两行背景日历.UFS</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\Public\Desktop\URNotes意唯桌面便签.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\URNotes意唯桌面便签.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\意唯桌面便签\URNotes意唯桌面便签.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\意唯桌面便签\帮助文档.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\意唯桌面便签\如无法运行，请先安装Framework2.0.lnk</Filename>
+<Filename>C:\Users\Public\Desktop\意唯心心日历.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\意唯心心日历.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\意唯桌面便签\意唯心心日历.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\意唯桌面便签\卸载URNotes.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Uninstall\IRIMG1.JPG</Filename>
+<Filename>D:\Program Files (x86)\ywliao\URNotes\Uninstall\IRIMG2.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>D:\Program Files (x86)\ywliao</FolderPath>
+<FolderPath>D:\Program Files (x86)\ywliao\URNotes</FolderPath>
+<FolderPath>D:\Program Files (x86)\ywliao\URNotes\Uninstall</FolderPath>
+<FolderPath>C:\Windows\URNotes</FolderPath>
+<FolderPath>D:\Program Files (x86)\ywliao\URNotes\URSkin</FolderPath>
+<FolderPath>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar</FolderPath>
+<FolderPath>D:\Program Files (x86)\ywliao\URNotes\..\URCalendar\URSkin</FolderPath>
+<FolderPath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\意唯桌面便签</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>URNotes意唯桌面便签</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>意唯睐尔</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>1.59</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>版权 (C)2009-2015 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value>http://www.ursoft.cn/</Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>安装意唯桌面便签(URNotes)</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>D:\Program Files (x86)\ywliao\URNotes</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>意唯桌面便签</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\Administrator\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files (x86)\Common Files</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\Administrator\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>C:\Users\Administrator\Documents</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files (x86)</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\Windows\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\Windows</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\ADMINI~1\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\ADMINI~1\AppData\Local\Temp\_ir_sf7_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>123</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>%CommonFiles%\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Users\ADMINI~1\AppData\Local\Temp\Rar$EXa31408.18882\Setup.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Users\ADMINI~1\AppData\Local\Temp\Rar$EXa31408.18882</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%UserName%</Name>
+<Value>123</Value>
+</Var>
+<Var>
+<Name>%UserCompany%</Name>
+<Value>123</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>601.89 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>9.16 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>

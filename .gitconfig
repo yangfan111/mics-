@@ -1,0 +1,17 @@
+[user]
+	name = fan yang
+	email = yfzc1526@outlook.com
+[winUpdater]
+	recentlySeenVersion = 2.19.2.windows.1
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[alias]
+	ss =  status -s
+	cmm = !git add -A && git commit -a -m '1'
+	ps  = !git cmm && git push
+	mg  = !git fetch && git merge
+
+	
